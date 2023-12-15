@@ -1,0 +1,29 @@
+{
+  "name": "xia-docs",
+  "version": "1.0.0",
+  "description": "XIA PLANT 在线文档",
+  "main": "index.js",
+  "scripts": {
+    "dev": "export NODE_OPTIONS=--openssl-legacy-provider & vuepress dev docs",
+    "build": "export NODE_OPTIONS=--openssl-legacy-provider & vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qmatrix123/xia-docs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qmatrix123/xia-docs/issues"
+  },
+  "homepage": "https://github.com/qmatrix123/xia-docs#readme",
+  "devDependencies": {
+    "vuepress": "^1.5.0",
+    "vuepress-plugin-medium-zoom": "^1.1.8"
+  },
+  "dependencies": {
+    "qs": "^6.11.2",
+    "vuepress-plugin-code-copy": "^1.0.6"
+  }
+}

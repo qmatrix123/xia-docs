@@ -1,0 +1,72 @@
+## 介绍
+
+## 什么是 Xia App?
+
+:::tip
+激流当下，不进则退。
+:::
+
+当下，随着大数据、人工智能、AI 技术的不断发展，社会正在发生一场变革。数字化转型，于企业来说，无疑是避无可避的过程，和强有力的竞争武器。
+
+在这样的时代背景下，德科小市工厂朝着目标，必将竭尽所能。目前，数据小组团队开发的一套基于内网的应用平台 Xia App，希望以数字化、自动化的方式，在帮助员工提升效率的同时，实现工厂级体系、业务、数据的统一。
+
+下面我们阐述一些 Xia APP 的主要特点。
+
+### 混合架构
+
+Xia App 采用 内置的 Java JDK 开发，同时混合了 B/S 和 C/S 两种架构，既可以实现基于 Web 技术的各种复杂页面，也可以实现传统的桌面端程序，同时还打通与 Office 办公软件的桥接，可以现更为复杂的业务流程功能。
+
+### 数据合规
+
+数据内部存储，通过目录进行角色权限控制。
+
+### 完善的文档
+
+业务平台开发过程中，我们将尽可能提供详尽的文档，方便业务者的使用。
+
+数据治理过程中，我们将尽可能以文档的形式，进行数据定义。
+
+业务梳理过程中，我们将尽可能以架构图、流程图的方式，去展现逻辑。
+
+:::tip
+总之，我们将通过数字化，将企业的有形之物，化为无形之力,使之成为企业数字资产的同时，也能成为未来的核心竞争力。
+:::
+
+<div class="row">
+
+  <p class="action">
+    <a href="/ie/ad/" class="action-button">业务平台 →</a>
+  </p>
+
+  <p class="action">
+    <a href="/ie/ad/" class="action-button">数据治理 →</a>
+  </p>
+
+  <p class="action">
+    <a href="/ie/ad/" class="action-button">联系我们 →</a>
+  </p>
+</div>
+
+<style>
+.row {
+  display: flex;
+  justify-content: space-around;
+}
+
+.action {
+  margin-top: 40px;
+  text-align:center;
+}
+
+.action-button {
+    display: inline-block;
+    font-size: 1.2rem;
+    color: #fff;
+    background-color: #3683d6;
+    padding: .1rem 1.6rem;
+    border-radius: 4px;
+    transition: background-color .1s ease;
+    box-sizing: border-box;
+    border-bottom: 1px solid #389d70;
+}
+</style>
